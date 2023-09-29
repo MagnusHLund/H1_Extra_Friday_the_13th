@@ -1,5 +1,7 @@
 # Friday the 13th
 
+This is a 2 out of 4 difficulty extra assignment.
+
 This code uses DateTime to calculate all the dates which are friday the 13th, within 10 years.
 Run the code and it will output "it is friday the 13th, the 13:xx:20xx".
 
